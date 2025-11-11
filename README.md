@@ -1,6 +1,5 @@
 # Task‑Orchestrating Agent
 
-
 **Break complex goals into manageable tasks using a hierarchy of specialized agents.**  
 This repository implements a multi‑agent system where a central
 **Orchestrator** decomposes a high‑level objective into subtasks and
